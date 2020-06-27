@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Семён Богданов](https://up.htmlacademy.ru/javascript/20/user/1394959).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Козлов](https://htmlacademy.ru/profile/id1479859).
 
 ---
 
